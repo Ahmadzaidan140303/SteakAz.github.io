@@ -97,7 +97,7 @@ body {
 /* hero section start*/
 .hero {
   min-height: 100vh;
-  background-image: url("img/banner.jpg");
+  background-image: url("../img/banner.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
